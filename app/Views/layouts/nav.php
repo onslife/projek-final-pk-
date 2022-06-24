@@ -10,7 +10,7 @@
                 <a class="nav-link" href="/about">About Us<i></i></a>
                 <a class="nav-link" href="/contact">Contact Us<i></i></a>
                 <?php if($title!='Registrasi'): ?>
-                <a href="/registrasi" class="join-us btn rounded-5s bg-light">JOIN US</a>
+                <a href="/registrasi" class="join-us btn rounded-5 bg-light">JOIN US</a>
                 <?php endif; ?>
             </div>
         </div>
